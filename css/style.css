@@ -1,0 +1,21 @@
+
+.title{
+    font-size: 60px;
+    font-family: Impact;
+    margin-bottom: 50px;
+}
+p{
+    margin-bottom: 50px;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button{
+    width: 250px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+}
+.button:hover{
+    background-color: darkgreen;
+    color: red;
+}
